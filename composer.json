@@ -1,5 +1,5 @@
 {
-    "name": "frostiede/silex-validation-serviceprovider",
+    "name": "frostiede/silex-validator-serviceprovider",
     "require": {
         "silex/silex": "^2.0",
         "symfony/validator": "~3.0",
